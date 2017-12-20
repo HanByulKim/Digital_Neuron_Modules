@@ -1,0 +1,243 @@
+{
+    "Misc": {
+        "daidir_abs": "/home/group05/jhpark/tgfa/simv.daidir",
+        "daidir": "/home/group05/jhpark/tgfa/./simv.daidir",
+        "csrc": "csrc",
+        "cwd": "/home/group05/jhpark/tgfa",
+        "csrc_abs": "/home/group05/jhpark/tgfa/csrc",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.1"
+    },
+    "NameTable": {
+        "tb_tgfa_8bit_delay": [
+            "tb_tgfa_8bit_delay",
+            "ftp4K",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "XMODEL_global": [
+            "XMODEL_global",
+            "w8VQw",
+            "module"
+        ],
+        "_vcs_unit__2116283917": [
+            "_vcs_unit__2116283917",
+            "r47Ra",
+            "module"
+        ],
+        "xmodel_pkg": [
+            "xmodel_pkg",
+            "xpQjW",
+            "module"
+        ],
+        "xmodel_prims": [
+            "xmodel_prims",
+            "nRDma",
+            "module"
+        ],
+        "trig_cross": [
+            "trig_cross",
+            "mzR8J",
+            "module"
+        ],
+        "xreal_to_xbit_var_0000": [
+            "xreal_to_xbit_var_0000",
+            "tWQzP",
+            "module"
+        ],
+        "math_pkg": [
+            "math_pkg",
+            "aG6Rf",
+            "module"
+        ],
+        "trig_time": [
+            "trig_time",
+            "uTRJL",
+            "module"
+        ],
+        "tgfa_RC": [
+            "tgfa_RC",
+            "LrnMb",
+            "module"
+        ],
+        "bit_to_xreal": [
+            "bit_to_xreal",
+            "VSICe",
+            "module"
+        ],
+        "inv_RC": [
+            "inv_RC",
+            "eGsM9",
+            "module"
+        ],
+        "tg_double_RC": [
+            "tg_double_RC",
+            "Ehdg3",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "MlibObjs": {},
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 73176
+    },
+    "PrevCompiledModules": {
+        "xmodel_pkg": {
+            "xpQjW_d": {
+                "bytes": 20635,
+                "mod": "xmodel_pkg",
+                "out": "xpQjW_d.o",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_20505_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "bytes": 33296,
+                "mod": "std",
+                "out": "reYIK_d.o",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_20505_archive_1.a"
+            }
+        },
+        "XMODEL_global": {
+            "w8VQw_d": {
+                "bytes": 17798,
+                "mod": "XMODEL_global",
+                "out": "w8VQw_d.o",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_20505_archive_1.a"
+            }
+        },
+        "xmodel_prims": {
+            "nRDma_d": {
+                "bytes": 65477,
+                "mod": "xmodel_prims",
+                "out": "nRDma_d.o",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_20505_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 8019,
+                "mod": "...MASTER...",
+                "out": "objs/amcQw_d.o",
+                "mode": 4,
+                "checksum": 0
+            }
+        },
+        "math_pkg": {
+            "aG6Rf_d": {
+                "bytes": 9313,
+                "mod": "math_pkg",
+                "out": "aG6Rf_d.o",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_20505_archive_1.a"
+            }
+        }
+    },
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_minflt": 7991,
+            "ru_utime_sec": 0.51600000000000001,
+            "ru_nivcsw": 8,
+            "ru_maxrss_kb": 98292,
+            "ru_stime_sec": 0.064000000000000001,
+            "ru_majflt": 0,
+            "ru_nvcsw": 51
+        },
+        "nQuads": 9943,
+        "ru_self_end": {
+            "ru_minflt": 11714,
+            "ru_utime_sec": 0.71199999999999997,
+            "ru_nivcsw": 8,
+            "ru_maxrss_kb": 106392,
+            "ru_stime_sec": 0.071999999999999995,
+            "ru_majflt": 0,
+            "ru_nvcsw": 53
+        },
+        "ru_childs_cgstart": {
+            "ru_minflt": 0,
+            "ru_utime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_maxrss_kb": 0,
+            "ru_stime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0
+        },
+        "CodeGen(%)": 27.528089887640444,
+        "Frontend(%)": 72.471910112359552,
+        "mop/quad": 2.6939555466157095,
+        "totalObjSize": 767240,
+        "mopSpeed": 136663.26530612248,
+        "nMops": 26786,
+        "ru_childs_end": {
+            "ru_minflt": 206,
+            "ru_utime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_maxrss_kb": 28548,
+            "ru_stime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 1
+        },
+        "quadSpeed": 50729.591836734704,
+        "outputSizePerQuad": 77.0
+    },
+    "CompileStrategy": "fullobj",
+    "CompileStatus": "Successful",
+    "CurCompileUdps": {},
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "_vcs_unit__2116283917",
+        "_vcs_unit__2116283917",
+        "std",
+        "std",
+        "xmodel_pkg",
+        "xmodel_pkg",
+        "xmodel_prims",
+        "xmodel_prims",
+        "math_pkg",
+        "math_pkg",
+        "XMODEL_global",
+        "XMODEL_global",
+        "trig_cross",
+        "trig_cross",
+        "trig_time",
+        "trig_time",
+        "bit_to_xreal",
+        "bit_to_xreal",
+        "xreal_to_xbit_var_0000",
+        "xreal_to_xbit_var_0000",
+        "tb_tgfa_8bit_delay",
+        "tb_tgfa_8bit_delay",
+        "inv_RC",
+        "inv_RC",
+        "tg_double_RC",
+        "tg_double_RC",
+        "tgfa_RC",
+        "tgfa_RC"
+    ],
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileProcesses": [
+        "cgproc.20505.json"
+    ]
+}

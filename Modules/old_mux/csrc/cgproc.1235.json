@@ -1,0 +1,187 @@
+{
+    "Modules": {
+        "trig_time": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "...MASTER...": {},
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "_vcs_unit__1464944897": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "switch_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "trig_cross": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "bit_to_xreal": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "xreal_to_xbit_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "mux_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "tb_mux_delay": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        }
+    },
+    "reusePaths": {
+        "reYIK_d": {
+            "icPath": "csrc"
+        },
+        "w8VQw_d": {
+            "icPath": "csrc"
+        },
+        "DE7Kd_d": {
+            "icPath": "csrc"
+        },
+        "mzR8J_d": {
+            "icPath": "csrc"
+        },
+        "uTRJL_d": {
+            "icPath": "csrc"
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 8193,
+            "mode": 4,
+            "checksum": 0
+        },
+        "tU03t_d": {
+            "mod": "mux_RC",
+            "out": "tU03t_d.o",
+            "bytes": 55457,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        },
+        "pECtM_d": {
+            "mod": "_vcs_unit__1464944897",
+            "out": "pECtM_d.o",
+            "bytes": 100482,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        },
+        "xpQjW_d": {
+            "mod": "xmodel_pkg",
+            "out": "xpQjW_d.o",
+            "bytes": 28898,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        },
+        "aG6Rf_d": {
+            "mod": "math_pkg",
+            "out": "aG6Rf_d.o",
+            "bytes": 10418,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        },
+        "uuixR_d": {
+            "mod": "tb_mux_delay",
+            "out": "uuixR_d.o",
+            "bytes": 184432,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        },
+        "nRDma_d": {
+            "mod": "xmodel_prims",
+            "out": "nRDma_d.o",
+            "bytes": 84778,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        },
+        "VSICe_d": {
+            "mod": "bit_to_xreal",
+            "out": "VSICe_d.o",
+            "bytes": 45533,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        },
+        "tWQzP_d": {
+            "mod": "xreal_to_xbit_var_0000",
+            "out": "tWQzP_d.o",
+            "bytes": 41938,
+            "mode": 4,
+            "archive": "archive.7/_1235_archive_1.a",
+            "checksum": 0
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.7/_1235_archive_1.a",
+            "objects": [
+                [
+                    "pECtM_d.o",
+                    100482
+                ],
+                [
+                    "xpQjW_d.o",
+                    28898
+                ],
+                [
+                    "nRDma_d.o",
+                    84778
+                ],
+                [
+                    "aG6Rf_d.o",
+                    10418
+                ],
+                [
+                    "VSICe_d.o",
+                    45533
+                ],
+                [
+                    "tWQzP_d.o",
+                    41938
+                ],
+                [
+                    "uuixR_d.o",
+                    184432
+                ],
+                [
+                    "tU03t_d.o",
+                    55457
+                ]
+            ],
+            "size": 551936
+        }
+    ]
+}

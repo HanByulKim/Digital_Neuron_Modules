@@ -1,0 +1,232 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "bit_to_xreal": {
+            "Compiled": "Yes",
+            "Compiled Times": 14
+        },
+        "bit_to_xreal_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 12
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "tg_double_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 14
+        },
+        "_vcs_unit__2647247054": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "tb_totalneuron": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "inv_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 14
+        },
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "xbit_to_xreal_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 12
+        },
+        "xreal_to_xbit_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 14
+        },
+        "slice": {
+            "Compiled": "Yes",
+            "Compiled Times": 6
+        },
+        "trig_time": {
+            "Compiled": "Yes",
+            "Compiled Times": 14
+        },
+        "transition_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 12
+        },
+        "trig_cross": {
+            "Compiled": "Yes",
+            "Compiled Times": 14
+        },
+        "tgfa_8bit": {
+            "Compiled": "Yes",
+            "Compiled Times": 10
+        },
+        "tgfa_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 14
+        },
+        "tgmux2": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        }
+    },
+    "CompUnits": {
+        "xpQjW_d": {
+            "out": "xpQjW_d.o",
+            "mod": "xmodel_pkg",
+            "bytes": 28898,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        },
+        "nRDma_d": {
+            "out": "nRDma_d.o",
+            "mod": "xmodel_prims",
+            "bytes": 84778,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        },
+        "LyMud_d": {
+            "out": "LyMud_d.o",
+            "mod": "bit_to_xreal_0000",
+            "bytes": 45554,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        },
+        "aG6Rf_d": {
+            "out": "aG6Rf_d.o",
+            "mod": "math_pkg",
+            "bytes": 10418,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        },
+        "tWQzP_d": {
+            "out": "tWQzP_d.o",
+            "mod": "xreal_to_xbit_var_0000",
+            "bytes": 41938,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        },
+        "PpQx1_d": {
+            "out": "PpQx1_d.o",
+            "mod": "slice",
+            "bytes": 14656,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        },
+        "VSICe_d": {
+            "out": "VSICe_d.o",
+            "mod": "bit_to_xreal",
+            "bytes": 219338,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        },
+        "A5mMS_d": {
+            "out": "A5mMS_d.o",
+            "mod": "tb_totalneuron",
+            "bytes": 313732,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.14/_2398_archive_1.a"
+        }
+    },
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        },
+        "mzetE_d": {
+            "icPath": "csrc"
+        },
+        "KMDyE_d": {
+            "icPath": "csrc"
+        },
+        "Ehdg3_d": {
+            "icPath": "csrc"
+        },
+        "reYIK_d": {
+            "icPath": "csrc"
+        },
+        "w8VQw_d": {
+            "icPath": "csrc"
+        },
+        "mzR8J_d": {
+            "icPath": "csrc"
+        },
+        "p2t6g_d": {
+            "icPath": "csrc"
+        },
+        "eGsM9_d": {
+            "icPath": "csrc"
+        },
+        "uTRJL_d": {
+            "icPath": "csrc"
+        },
+        "IGTFP_d": {
+            "icPath": "csrc"
+        },
+        "LrnMb_d": {
+            "icPath": "csrc"
+        },
+        "rKT9u_d": {
+            "icPath": "csrc"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.14/_2398_archive_1.a",
+            "objects": [
+                [
+                    "xpQjW_d.o",
+                    28898
+                ],
+                [
+                    "nRDma_d.o",
+                    84778
+                ],
+                [
+                    "aG6Rf_d.o",
+                    10418
+                ],
+                [
+                    "PpQx1_d.o",
+                    14656
+                ],
+                [
+                    "VSICe_d.o",
+                    219338
+                ],
+                [
+                    "LyMud_d.o",
+                    45554
+                ],
+                [
+                    "tWQzP_d.o",
+                    41938
+                ],
+                [
+                    "A5mMS_d.o",
+                    313732
+                ]
+            ],
+            "size": 759312
+        }
+    ]
+}

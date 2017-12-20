@@ -1,0 +1,209 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "_vcs_unit__1817549624": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "tg_double_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "xbit_to_xreal_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 7
+        },
+        "xreal_to_bit": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "transition_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "slice": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "clk_gen": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "trig_cross": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "trig_time": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "xreal_to_xbit_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "tb_ff10_delay": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "inv_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "ff1": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        }
+    },
+    "reusePaths": {
+        "MA5T3_d": {
+            "icPath": "csrc"
+        },
+        "amcQw_d": {
+            "icPath": "csrc"
+        },
+        "PpQx1_d": {
+            "icPath": "csrc"
+        },
+        "mzR8J_d": {
+            "icPath": "csrc"
+        },
+        "reYIK_d": {
+            "icPath": "csrc"
+        },
+        "w8VQw_d": {
+            "icPath": "csrc"
+        },
+        "mzetE_d": {
+            "icPath": "csrc"
+        },
+        "eGsM9_d": {
+            "icPath": "csrc"
+        },
+        "uTRJL_d": {
+            "icPath": "csrc"
+        },
+        "IGTFP_d": {
+            "icPath": "csrc"
+        },
+        "GxgN6_d": {
+            "icPath": "csrc"
+        },
+        "Ehdg3_d": {
+            "icPath": "csrc"
+        }
+    },
+    "CompUnits": {
+        "kgj22_d": {
+            "archive": "archive.7/_16553_archive_1.a",
+            "mod": "_vcs_unit__1817549624",
+            "out": "kgj22_d.o",
+            "checksum": 0,
+            "bytes": 100922,
+            "mode": 4
+        },
+        "xpQjW_d": {
+            "archive": "archive.7/_16553_archive_1.a",
+            "mod": "xmodel_pkg",
+            "out": "xpQjW_d.o",
+            "checksum": 0,
+            "bytes": 28898,
+            "mode": 4
+        },
+        "tWQzP_d": {
+            "archive": "archive.7/_16553_archive_1.a",
+            "mod": "xreal_to_xbit_var_0000",
+            "out": "tWQzP_d.o",
+            "checksum": 0,
+            "bytes": 41938,
+            "mode": 4
+        },
+        "aG6Rf_d": {
+            "archive": "archive.7/_16553_archive_1.a",
+            "mod": "math_pkg",
+            "out": "aG6Rf_d.o",
+            "checksum": 0,
+            "bytes": 10418,
+            "mode": 4
+        },
+        "nRDma_d": {
+            "archive": "archive.7/_16553_archive_1.a",
+            "mod": "xmodel_prims",
+            "out": "nRDma_d.o",
+            "checksum": 0,
+            "bytes": 79584,
+            "mode": 4
+        },
+        "MEIvW_d": {
+            "archive": "archive.7/_16553_archive_1.a",
+            "mod": "clk_gen",
+            "out": "MEIvW_d.o",
+            "checksum": 0,
+            "bytes": 65571,
+            "mode": 4
+        },
+        "kmJMC_d": {
+            "archive": "archive.7/_16553_archive_1.a",
+            "mod": "tb_ff10_delay",
+            "out": "kmJMC_d.o",
+            "checksum": 0,
+            "bytes": 105940,
+            "mode": 4
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.7/_16553_archive_1.a",
+            "size": 433271,
+            "objects": [
+                [
+                    "kgj22_d.o",
+                    100922
+                ],
+                [
+                    "xpQjW_d.o",
+                    28898
+                ],
+                [
+                    "nRDma_d.o",
+                    79584
+                ],
+                [
+                    "aG6Rf_d.o",
+                    10418
+                ],
+                [
+                    "MEIvW_d.o",
+                    65571
+                ],
+                [
+                    "tWQzP_d.o",
+                    41938
+                ],
+                [
+                    "kmJMC_d.o",
+                    105940
+                ]
+            ]
+        }
+    ]
+}

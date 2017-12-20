@@ -1,0 +1,299 @@
+{
+    "CompileStatus": "Successful",
+    "Misc": {
+        "csrc": "csrc",
+        "cwd": "/home/group05/new_mux/new_designed",
+        "daidir_abs": "/home/group05/new_mux/new_designed/simv.daidir",
+        "csrc_abs": "/home/group05/new_mux/new_designed/csrc",
+        "daidir": "/home/group05/new_mux/new_designed/./simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.13"
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "_vcs_unit__4178480837",
+        "_vcs_unit__4178480837",
+        "std",
+        "std",
+        "xmodel_pkg",
+        "xmodel_pkg",
+        "xmodel_prims",
+        "xmodel_prims",
+        "math_pkg",
+        "math_pkg",
+        "XMODEL_global",
+        "XMODEL_global",
+        "trig_cross",
+        "trig_cross",
+        "trig_time",
+        "trig_time",
+        "bit_to_xreal",
+        "bit_to_xreal",
+        "xreal_to_xbit_var_0000",
+        "xreal_to_xbit_var_0000",
+        "tb_mux_delay",
+        "tb_mux_delay",
+        "new_mux_RC",
+        "new_mux_RC"
+    ],
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "new_mux_RC": {
+            "gnvUG_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 77992,
+                "out": "gnvUG_d.o",
+                "mode": 4,
+                "mod": "new_mux_RC",
+                "checksum": 0
+            }
+        },
+        "_vcs_unit__4178480837": {
+            "iMHNL_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 100482,
+                "out": "iMHNL_d.o",
+                "mode": 4,
+                "mod": "_vcs_unit__4178480837",
+                "checksum": 0
+            }
+        },
+        "XMODEL_global": {
+            "w8VQw_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 17887,
+                "out": "w8VQw_d.o",
+                "mode": 4,
+                "mod": "XMODEL_global",
+                "checksum": 0
+            }
+        },
+        "xreal_to_xbit_var_0000": {
+            "tWQzP_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 41938,
+                "mode": 4,
+                "out": "tWQzP_d.o",
+                "mod": "xreal_to_xbit_var_0000",
+                "checksum": 0
+            }
+        },
+        "xmodel_pkg": {
+            "xpQjW_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 28898,
+                "mode": 4,
+                "out": "xpQjW_d.o",
+                "mod": "xmodel_pkg",
+                "checksum": 0
+            }
+        },
+        "tb_mux_delay": {
+            "uuixR_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 184142,
+                "mode": 4,
+                "out": "uuixR_d.o",
+                "mod": "tb_mux_delay",
+                "checksum": 0
+            }
+        },
+        "bit_to_xreal": {
+            "VSICe_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 45533,
+                "mode": 4,
+                "out": "VSICe_d.o",
+                "mod": "bit_to_xreal",
+                "checksum": 0
+            }
+        },
+        "trig_cross": {
+            "mzR8J_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 25289,
+                "out": "mzR8J_d.o",
+                "mode": 4,
+                "mod": "trig_cross",
+                "checksum": 0
+            }
+        },
+        "xmodel_prims": {
+            "nRDma_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 84778,
+                "mode": 4,
+                "out": "nRDma_d.o",
+                "mod": "xmodel_prims",
+                "checksum": 0
+            }
+        },
+        "trig_time": {
+            "uTRJL_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 29234,
+                "out": "uTRJL_d.o",
+                "mode": 4,
+                "mod": "trig_time",
+                "checksum": 0
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 33296,
+                "out": "reYIK_d.o",
+                "mode": 4,
+                "mod": "std",
+                "checksum": 0
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 8193,
+                "out": "objs/amcQw_d.o",
+                "mode": 4,
+                "mod": "...MASTER...",
+                "checksum": 0
+            }
+        },
+        "math_pkg": {
+            "aG6Rf_d": {
+                "archive": "archive.13/_388_archive_1.a",
+                "bytes": 10418,
+                "mode": 4,
+                "out": "aG6Rf_d.o",
+                "mod": "math_pkg",
+                "checksum": 0
+            }
+        }
+    },
+    "NameTable": {
+        "xreal_to_xbit_var_0000": [
+            "xreal_to_xbit_var_0000",
+            "tWQzP",
+            "module"
+        ],
+        "_vcs_unit__4178480837": [
+            "_vcs_unit__4178480837",
+            "iMHNL",
+            "module"
+        ],
+        "XMODEL_global": [
+            "XMODEL_global",
+            "w8VQw",
+            "module"
+        ],
+        "tb_mux_delay": [
+            "tb_mux_delay",
+            "uuixR",
+            "module"
+        ],
+        "xmodel_pkg": [
+            "xmodel_pkg",
+            "xpQjW",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "xmodel_prims": [
+            "xmodel_prims",
+            "nRDma",
+            "module"
+        ],
+        "trig_time": [
+            "trig_time",
+            "uTRJL",
+            "module"
+        ],
+        "math_pkg": [
+            "math_pkg",
+            "aG6Rf",
+            "module"
+        ],
+        "bit_to_xreal": [
+            "bit_to_xreal",
+            "VSICe",
+            "module"
+        ],
+        "trig_cross": [
+            "trig_cross",
+            "mzR8J",
+            "module"
+        ],
+        "new_mux_RC": [
+            "new_mux_RC",
+            "gnvUG",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CurCompileUdps": {},
+    "CompileStrategy": "fullobj",
+    "LVLData": [
+        "SIM"
+    ],
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_minflt": 6938,
+            "ru_stime_sec": 0.02,
+            "ru_utime_sec": 0.41599999999999998,
+            "ru_maxrss_kb": 100424,
+            "ru_nvcsw": 66,
+            "ru_majflt": 0,
+            "ru_nivcsw": 4
+        },
+        "ru_childs_cgstart": {
+            "ru_minflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_utime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_nivcsw": 0
+        },
+        "nQuads": 13716,
+        "nMops": 33086,
+        "mop/quad": 2.4122193059200931,
+        "totalObjSize": 760848,
+        "outputSizePerQuad": 55.0,
+        "mopSpeed": 179815.21739130435,
+        "ru_self_end": {
+            "ru_minflt": 10302,
+            "ru_stime_sec": 0.028000000000000001,
+            "ru_utime_sec": 0.59999999999999998,
+            "ru_maxrss_kb": 108740,
+            "ru_nvcsw": 73,
+            "ru_majflt": 0,
+            "ru_nivcsw": 4
+        },
+        "ru_childs_end": {
+            "ru_minflt": 204,
+            "ru_stime_sec": 0.0,
+            "ru_utime_sec": 0.0,
+            "ru_maxrss_kb": 30464,
+            "ru_nvcsw": 1,
+            "ru_majflt": 0,
+            "ru_nivcsw": 2
+        },
+        "quadSpeed": 74543.478260869568,
+        "Frontend(%)": 69.333333333333343,
+        "CodeGen(%)": 30.666666666666664
+    },
+    "PEModules": [],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 72909
+    },
+    "CompileProcesses": [
+        "cgproc.388.json"
+    ]
+}

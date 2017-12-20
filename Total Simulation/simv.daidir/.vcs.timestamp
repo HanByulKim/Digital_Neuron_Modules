@@ -1,0 +1,324 @@
+2        
+0 xmodel.h
+0 /cad/synopsys/vcs/L-2016.06/etc/systemverilog/xmodel.h
+46
++define+XMODEL
++define+XMODEL_TIMEPRECISION=10fs
++incdir+/cad/xmodel/xmodel_dev/include
++v2k
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/cad/synopsys/vcs/L-2016.06/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags=-L/usr/lib/x86_64-linux-gnu -L/lib/x86_64-linux-gnu -Wl,--no-as-needed -rdynamic
+-Mobjects= /cad/synopsys/vcs/L-2016.06/linux64/lib/libvirsim.so /cad/synopsys/vcs/L-2016.06/linux64/lib/liberrorinf.so /cad/synopsys/vcs/L-2016.06/linux64/lib/libsnpsmalloc.so /cad/xmodel/xmodel_dev/lib/x86_64/xmodel_vcs.so
+-Mout=./simv
+-Msaverestoreobj=/cad/synopsys/vcs/L-2016.06/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/cad/synopsys/vcs/L-2016.06/include
+-P
+-f /cad/xmodel/xmodel_dev/include/xmodel.f
+-full64
+-gen_obj
+-o ./simv
+-picarchive
+-sverilog
+-timescale=10fs/10fs
+-top
+-top
+/cad/synopsys/vcs/L-2016.06/linux64/bin/vcs1
+/cad/xmodel/xmodel_dev/lib/x86_64/xmodel_vcs.tab
+XMODEL_global
+inv_RC.sv
+tb_totalneuron
+tb_totalneuron.sv
+tg_RC.sv
+tg_double_RC.sv
+tgfa.sv
+tgfa_10bit.sv
+tgfa_8bit.sv
+tgfa_9bit.sv
+tgha.sv
+tgmux16.sv
+tgmux2.sv
+82
+sysc_uni_pwd=/home/group05/total
+XMODEL_SIMDIR=./xmodel.sim
+XMODEL_HOME=/cad/xmodel/xmodel_dev
+XMODEL_FSDBRD_PATH=/cad/synopsys/verdi/verdi3_K-2015.09-SP2-11/share/FsdbReader/LINUX64
+XMODEL_CONFIG=/cad/xmodel/xmodel_dev/etc/default_config.py
+XDG_SESSION_ID=866
+XDG_RUNTIME_DIR=/run/user/1032
+VMR_MODE_FLAG=64
+VENDOR=unknown
+VCS_MODE_FLAG=64
+VCS_HOME=/cad/synopsys/vcs/L-2016.06
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+USE_CALIBRE_VCO=ixl
+UNAME=/bin/uname
+TOOL_HOME=/cad/synopsys/vcs/L-2016.06/linux64
+SW_LIC_TIMEOUT=30
+SSH_TTY=/dev/pts/19
+SSH_CONNECTION=147.46.236.121 59513 147.46.168.113 22
+SSH_CLIENT=147.46.236.121 59513 22
+SPECTRE_FEATURE_FILE=/cad/cadence/installs/MMSIM151/tools.lnx86/spectre/etc/files/spectre.dat
+SNPS_VCS_INTERNAL_LINKER_NEEDS_NO_AS_NEEDED=1
+SIMBA_CONFIGPATH=/cad/dev/share/config/simba
+SIMBA_CONFIG=/cad/dev/share/config/simba/default.py
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SALMD_LICENSE_FILE=9524@147.46.168.92
+REMOTEHOST=147.46.236.121
+PYTHONPATH=/cad/xmodel/xmodel_dev/lib/python:/cad/xmodel/xmodel_dev/lib:/cad/xmodel/xmodel_dev/etc
+PANGO_SYSCONFDIR=/cad/xmodel/xmodel_dev/python-2.7/etc
+PANGO_LIBDIR=/cad/xmodel/xmodel_dev/python-2.7/lib
+OVA_UUM=0
+OSTYPE=linux
+OA_UNSUPPORTED_PLAT=linux_rhel40_gcc44x
+OA_HOME=/cad/cadence/installs/IC06.15.011/oa_v22.41.033
+NOVAS_HOME=/cad/synopsys/verdi/verdi3_K-2015.09-SP2-11
+MODELSIM_HOME=/cad/mentor/modelsim/modeltech
+MMSIM_PATH=/cad/cadence/installs/MMSIM151/tools.lnx86/bin
+MMSIM_HOME=/cad/cadence/installs/MMSIM151
+MGC_TMPDIR=/tmp
+MGC_HOME=/cad/mentor/calibre_2015.4_16.11/ixl_cal_2015.4_16.11
+MFLAGS=
+MATLABPATH=/cad/cadence/installs/MMSIM151/tools.lnx86/spectre/matlab/64bit
+MAKE_TERMOUT=/dev/pts/19
+MAKE_TERMERR=/dev/pts/19
+MAKELEVEL=1
+MAKEFLAGS=
+LIBRARY_PATH=/usr/lib/x86_64-linux-gnu
+LC_TIME=ko_KR.UTF-8
+LC_TELEPHONE=ko_KR.UTF-8
+LC_PAPER=ko_KR.UTF-8
+LC_NUMERIC=ko_KR.UTF-8
+LC_NAME=ko_KR.UTF-8
+LC_MONETARY=ko_KR.UTF-8
+LC_MEASUREMENT=ko_KR.UTF-8
+LC_IDENTIFICATION=ko_KR.UTF-8
+LC_ALL=C
+LC_ADDRESS=ko_KR.UTF-8
+HSP_HOME=/cad/synopsys/hspice/L-2016.06-SP2
+HOSTTYPE=x86_64-linux
+GTK_PATH=/cad/xmodel/xmodel_dev/python-2.7/lib/gtk-2.0:/usr/lib64/gtk-2.0:/usr/lib/x86_64-linux-gnu/gtk-2.0
+GTK2_RC_FILES=/cad/xmodel/xmodel_dev/etc/gtkrc
+GROUP=group05
+GDK_PIXBUF_MODULE_FILE=/cad/xmodel/xmodel_dev/python-2.7/lib/gdk-pixbuf-2.0/2.10.0/loaders.cache
+GDK_PIXBUF_MODULEDIR=/cad/xmodel/xmodel_dev/python-2.7/lib/gdk-pixbuf-2.0/2.10.0/loaders
+EPD_HOME=/cad/enthought/epd
+CX_HOME=/cad/synopsys/cx/L-2016.06
+CPATH=/usr/include/x86_64-linux-gnu
+CDS_SITE=/cad/dev/share/cadence/cds_site
+CDS_Netlisting_Mode=Analog
+CDS_LIC_FILE=5280@147.46.168.92
+CDS_INST_DIR=/cad/cadence/installs/IC06.15.011
+CDS_EXP_PCELL_NO_MULTIUSER=true
+CDS_ENABLE_EXP_PCELL=false
+CDS_AUTO_64BIT=ALL
+CDSHOME=/cad/cadence/installs/IC06.15.011
+CALIBRE_HOME=/cad/mentor/calibre_2015.4_16.11/ixl_cal_2015.4_16.11
+CAD_SHARE=/cad/dev/share
+CAD_HOME=/cad/dev
+ARCH=linux
+AMSHOME=/cad/cadence/installs/INCISIVE152
+0
+182
+1511483801 /cad/xmodel/xmodel_dev/include/xmodel.h
+1513543708 tb_totalneuron.sv
+1513519750 tg_RC.sv
+1513542097 tgmux2.sv
+1513542097 tgmux16.sv
+1513519750 tgha.sv
+1513519750 tgfa.sv
+1513519750 tgfa_9bit.sv
+1513519750 tgfa_8bit.sv
+1513519750 tgfa_10bit.sv
+1513519750 tg_double_RC.sv
+1513519735 inv_RC.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/vccs.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/transformer.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/tline.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/switch.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/res_var.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/res_sw.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/res_idx.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/vsource.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/vprobe.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/vinit.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/vcvs.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/pmosfet_idx.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/pmosfet.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/nmosfet_idx.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/resistor.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/nmosfet.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/mtline.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/minductor.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/isource.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/ind_var.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/ind_sw.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/iprobe.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/inductor.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/ind_idx.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/gm_rect.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/iinit.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/diode.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/cap_var.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/ccvs.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/cccs.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/capacitor.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/cap_sw.sv
+1511483795 /cad/xmodel/xmodel_dev/circuit/cap_idx.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xreal_to_xbit_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xreal_to_xbit.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xreal_to_real.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xreal_to_bit_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xreal_to_bit.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xbit_to_xreal_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xbit_to_xreal.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xbit_to_real_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xbit_to_real.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/xbit_to_bit.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/real_to_xreal.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/real_to_xbit_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/real_to_xbit.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/real_to_bit_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/real_to_bit.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/bit_to_xreal_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/bit_to_xreal.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/bit_to_xbit.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/bit_to_real_var.sv
+1511483795 /cad/xmodel/xmodel_dev/connect/bit_to_real.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/phase_to_clk.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/period_to_clk.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/freq_to_clk.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/duty_to_clk.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/delay_to_clk.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/clk_to_phase.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/clk_to_period.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/clk_to_freq.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/clk_to_duty.sv
+1511483795 /cad/xmodel/xmodel_dev/vdt/clk_to_delay.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/trig_time.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/trig_rise.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/trig_posedge.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/trig_negedge.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/trig_fall.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/trig_edge.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/trig_cross.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_value.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_time.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_slope.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_rms.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_rise.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_pp.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_posedge.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_period.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_negedge.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_min.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_max.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_integ.sv
+1511483795 /cad/xmodel/xmodel_dev/meas/meas_fall.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/meas_edge.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/meas_deriv.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/meas_delay.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/meas_cross.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/meas_avg.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_xreal.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_real.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_phase.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_period.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_meas.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_freq.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_duty.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_delay.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_bit.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/probe_ber.sv
+1511483794 /cad/xmodel/xmodel_dev/meas/meas_ber.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/replay_xreal.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/replay_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/step_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/sin_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/pwl_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/pulse_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/prbs_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/pat_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/noise_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/exp_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/dc_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/stim/clk_gen.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/xor_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/xor2_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/xnor_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/xnor2_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/triinv_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/tribuf_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/or_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/or2_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/nor_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/nor2_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/nand_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/nand2_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/mux_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/latch_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/inv_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/interp_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/dff_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/dff_set_sync_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/dff_set_async_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/dff_rst_sync_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/dff_rst_async_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/delay_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/const_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/buf_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/and_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/gate/and2_xbit.sv
+1511483794 /cad/xmodel/xmodel_dev/function/scale.sv
+1511483794 /cad/xmodel/xmodel_dev/function/pwl_func.sv
+1511483794 /cad/xmodel/xmodel_dev/function/transition.sv
+1511483794 /cad/xmodel/xmodel_dev/function/power.sv
+1511483794 /cad/xmodel/xmodel_dev/function/compare.sv
+1511483794 /cad/xmodel/xmodel_dev/function/limit.sv
+1511483794 /cad/xmodel/xmodel_dev/function/sample.sv
+1511483794 /cad/xmodel/xmodel_dev/function/delay.sv
+1511483794 /cad/xmodel/xmodel_dev/function/poly_func.sv
+1511483794 /cad/xmodel/xmodel_dev/function/select.sv
+1511483794 /cad/xmodel/xmodel_dev/function/multiply.sv
+1511483794 /cad/xmodel/xmodel_dev/function/integ.sv
+1511483794 /cad/xmodel/xmodel_dev/function/integ_mod.sv
+1511483794 /cad/xmodel/xmodel_dev/function/deriv.sv
+1511483794 /cad/xmodel/xmodel_dev/function/slice.sv
+1511483794 /cad/xmodel/xmodel_dev/function/filter_fir.sv
+1511483794 /cad/xmodel/xmodel_dev/function/filter_var.sv
+1511483794 /cad/xmodel/xmodel_dev/function/filter.sv
+1511483794 /cad/xmodel/xmodel_dev/function/dac.sv
+1511483794 /cad/xmodel/xmodel_dev/function/add.sv
+1511483794 /cad/xmodel/xmodel_dev/function/adc.sv
+1511483794 /cad/xmodel/xmodel_dev/function/buffer.sv
+1511483801 /cad/xmodel/xmodel_dev/include/xmodel.sv
+1511773265 /cad/xmodel/xmodel_dev/circuit/circuit.f
+1511773265 /cad/xmodel/xmodel_dev/connect/connect.f
+1511773265 /cad/xmodel/xmodel_dev/vdt/vdt.f
+1511773265 /cad/xmodel/xmodel_dev/meas/meas.f
+1511773265 /cad/xmodel/xmodel_dev/stim/stim.f
+1511773265 /cad/xmodel/xmodel_dev/gate/gate.f
+1511773265 /cad/xmodel/xmodel_dev/function/function.f
+1511773265 /cad/xmodel/xmodel_dev/include/xmodel.f
+1506813529 /cad/xmodel/xmodel_dev/lib/x86_64/xmodel_vcs.tab
+5
+0 
+1511687064 /cad/synopsys/vcs/L-2016.06/linux64/lib/libvirsim.so
+1511687067 /cad/synopsys/vcs/L-2016.06/linux64/lib/liberrorinf.so
+1511687073 /cad/synopsys/vcs/L-2016.06/linux64/lib/libsnpsmalloc.so
+1511306768 /cad/xmodel/xmodel_dev/lib/x86_64/xmodel_vcs.so
+1513543714 ./simv.daidir

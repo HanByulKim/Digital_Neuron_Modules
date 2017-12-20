@@ -1,0 +1,405 @@
+{
+    "MlibObjs": {},
+    "Misc": {
+        "archive_dir": "archive.13",
+        "cwd": "/home/group05/total",
+        "daidir": "/home/group05/total/./simv.daidir",
+        "csrc": "csrc",
+        "csrc_abs": "/home/group05/total/csrc",
+        "daidir_abs": "/home/group05/total/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "PrevCompiledModules": {
+        "tgfa_8bit": {
+            "p2t6g_d": {
+                "bytes": 32679,
+                "mod": "tgfa_8bit",
+                "checksum": 0,
+                "out": "p2t6g_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "trig_cross": {
+            "mzR8J_d": {
+                "bytes": 25289,
+                "mod": "trig_cross",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "mzR8J_d.o",
+                "checksum": 0
+            }
+        },
+        "slice": {
+            "PpQx1_d": {
+                "bytes": 14656,
+                "mod": "slice",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "PpQx1_d.o",
+                "checksum": 0
+            }
+        },
+        "XMODEL_global": {
+            "w8VQw_d": {
+                "bytes": 17887,
+                "mod": "XMODEL_global",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "w8VQw_d.o",
+                "checksum": 0
+            }
+        },
+        "xreal_to_xbit_var_0000": {
+            "tWQzP_d": {
+                "bytes": 41938,
+                "mod": "xreal_to_xbit_var_0000",
+                "checksum": 0,
+                "out": "tWQzP_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "bit_to_xreal": {
+            "VSICe_d": {
+                "bytes": 219338,
+                "mod": "bit_to_xreal",
+                "checksum": 0,
+                "out": "VSICe_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "bytes": 33205,
+                "mod": "std",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "reYIK_d.o",
+                "checksum": 0
+            }
+        },
+        "xbit_to_xreal_0000": {
+            "IGTFP_d": {
+                "bytes": 13114,
+                "mod": "xbit_to_xreal_0000",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "IGTFP_d.o",
+                "checksum": 0
+            }
+        },
+        "trig_time": {
+            "uTRJL_d": {
+                "bytes": 29183,
+                "mod": "trig_time",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "uTRJL_d.o",
+                "checksum": 0
+            }
+        },
+        "inv_RC": {
+            "eGsM9_d": {
+                "bytes": 23243,
+                "mod": "inv_RC",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "eGsM9_d.o",
+                "checksum": 0
+            }
+        },
+        "xmodel_pkg": {
+            "xpQjW_d": {
+                "bytes": 28898,
+                "mod": "xmodel_pkg",
+                "checksum": 0,
+                "out": "xpQjW_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "math_pkg": {
+            "aG6Rf_d": {
+                "bytes": 10418,
+                "mod": "math_pkg",
+                "checksum": 0,
+                "out": "aG6Rf_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "tg_double_RC": {
+            "Ehdg3_d": {
+                "bytes": 35645,
+                "mod": "tg_double_RC",
+                "checksum": 0,
+                "out": "Ehdg3_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "xmodel_prims": {
+            "nRDma_d": {
+                "bytes": 84778,
+                "mod": "xmodel_prims",
+                "checksum": 0,
+                "out": "nRDma_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "bit_to_xreal_0000": {
+            "LyMud_d": {
+                "bytes": 45554,
+                "mod": "bit_to_xreal_0000",
+                "checksum": 0,
+                "out": "LyMud_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 8193,
+                "mod": "...MASTER...",
+                "mode": 4,
+                "out": "objs/amcQw_d.o",
+                "checksum": 0
+            }
+        },
+        "transition_0000": {
+            "mzetE_d": {
+                "bytes": 14030,
+                "mod": "transition_0000",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4,
+                "out": "mzetE_d.o",
+                "checksum": 0
+            }
+        },
+        "tgfa_RC": {
+            "LrnMb_d": {
+                "bytes": 21355,
+                "mod": "tgfa_RC",
+                "checksum": 0,
+                "out": "LrnMb_d.o",
+                "archive": "archive.13/_1216_archive_1.a",
+                "mode": 4
+            }
+        }
+    },
+    "NameTable": {
+        "XMODEL_global": [
+            "XMODEL_global",
+            "w8VQw",
+            "module"
+        ],
+        "transition_0000": [
+            "transition_0000",
+            "mzetE",
+            "module"
+        ],
+        "_vcs_unit__2647247054": [
+            "_vcs_unit__2647247054",
+            "KMDyE",
+            "module"
+        ],
+        "bit_to_xreal": [
+            "bit_to_xreal",
+            "VSICe",
+            "module"
+        ],
+        "xreal_to_xbit_var_0000": [
+            "xreal_to_xbit_var_0000",
+            "tWQzP",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "xmodel_pkg": [
+            "xmodel_pkg",
+            "xpQjW",
+            "module"
+        ],
+        "tgmux2": [
+            "tgmux2",
+            "rKT9u",
+            "module"
+        ],
+        "xmodel_prims": [
+            "xmodel_prims",
+            "nRDma",
+            "module"
+        ],
+        "tg_double_RC": [
+            "tg_double_RC",
+            "Ehdg3",
+            "module"
+        ],
+        "math_pkg": [
+            "math_pkg",
+            "aG6Rf",
+            "module"
+        ],
+        "slice": [
+            "slice",
+            "PpQx1",
+            "module"
+        ],
+        "trig_cross": [
+            "trig_cross",
+            "mzR8J",
+            "module"
+        ],
+        "trig_time": [
+            "trig_time",
+            "uTRJL",
+            "module"
+        ],
+        "bit_to_xreal_0000": [
+            "bit_to_xreal_0000",
+            "LyMud",
+            "module"
+        ],
+        "xbit_to_xreal_0000": [
+            "xbit_to_xreal_0000",
+            "IGTFP",
+            "module"
+        ],
+        "inv_RC": [
+            "inv_RC",
+            "eGsM9",
+            "module"
+        ],
+        "tb_totalneuron": [
+            "tb_totalneuron",
+            "A5mMS",
+            "module"
+        ],
+        "tgfa_8bit": [
+            "tgfa_8bit",
+            "p2t6g",
+            "module"
+        ],
+        "tgfa_RC": [
+            "tgfa_RC",
+            "LrnMb",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 75537
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "_vcs_unit__2647247054",
+        "_vcs_unit__2647247054",
+        "std",
+        "std",
+        "xmodel_pkg",
+        "xmodel_pkg",
+        "xmodel_prims",
+        "xmodel_prims",
+        "math_pkg",
+        "math_pkg",
+        "XMODEL_global",
+        "XMODEL_global",
+        "slice",
+        "slice",
+        "transition_0000",
+        "transition_0000",
+        "trig_cross",
+        "trig_cross",
+        "trig_time",
+        "trig_time",
+        "bit_to_xreal",
+        "bit_to_xreal",
+        "bit_to_xreal_0000",
+        "bit_to_xreal_0000",
+        "xbit_to_xreal_0000",
+        "xbit_to_xreal_0000",
+        "xreal_to_xbit_var_0000",
+        "xreal_to_xbit_var_0000",
+        "inv_RC",
+        "inv_RC",
+        "tg_double_RC",
+        "tg_double_RC",
+        "tgfa_8bit",
+        "tgfa_8bit",
+        "tgfa_RC",
+        "tgfa_RC",
+        "tgmux2",
+        "tgmux2",
+        "tb_totalneuron",
+        "tb_totalneuron"
+    ],
+    "CompileStrategy": "fullobj",
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.81200000000000006,
+            "ru_stime_sec": 0.016,
+            "ru_minflt": 8664,
+            "ru_maxrss_kb": 101228,
+            "ru_nvcsw": 92,
+            "ru_majflt": 0,
+            "ru_nivcsw": 3
+        },
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_minflt": 205,
+            "ru_maxrss_kb": 30576,
+            "ru_nvcsw": 1,
+            "ru_majflt": 0,
+            "ru_nivcsw": 0
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_nivcsw": 0
+        },
+        "CodeGen(%)": 29.513888888888879,
+        "quadSpeed": 73591.176470588267,
+        "totalObjSize": 1204378,
+        "nMops": 67859,
+        "nQuads": 25021,
+        "ru_self_end": {
+            "ru_utime_sec": 1.1519999999999999,
+            "ru_stime_sec": 0.032000000000000001,
+            "ru_minflt": 12707,
+            "ru_maxrss_kb": 108524,
+            "ru_nvcsw": 108,
+            "ru_majflt": 0,
+            "ru_nivcsw": 4
+        },
+        "Frontend(%)": 70.486111111111114,
+        "mopSpeed": 199585.29411764714,
+        "mop/quad": 2.712081851244954,
+        "outputSizePerQuad": 48.0
+    },
+    "CurCompileUdps": {},
+    "PEModules": [],
+    "CompileStatus": "Successful",
+    "CompileProcesses": [
+        "cgproc.1216.json"
+    ]
+}

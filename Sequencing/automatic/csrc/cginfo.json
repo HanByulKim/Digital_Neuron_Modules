@@ -1,0 +1,347 @@
+{
+    "MlibObjs": {},
+    "CompileProcesses": [
+        "cgproc.19223.json"
+    ],
+    "PrevCompiledModules": {
+        "bit_to_xreal": {
+            "VSICe_d": {
+                "out": "VSICe_d.o",
+                "bytes": 270535,
+                "mod": "bit_to_xreal",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "out": "reYIK_d.o",
+                "bytes": 33296,
+                "mod": "std",
+                "archive": "archive.2/_prev_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "XMODEL_global": {
+            "w8VQw_d": {
+                "out": "w8VQw_d.o",
+                "bytes": 17887,
+                "mod": "XMODEL_global",
+                "archive": "archive.2/_prev_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "ff1": {
+            "GxgN6_d": {
+                "out": "GxgN6_d.o",
+                "bytes": 21850,
+                "mod": "ff1",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "xbit_to_xreal_0000": {
+            "IGTFP_d": {
+                "out": "IGTFP_d.o",
+                "bytes": 14261,
+                "mod": "xbit_to_xreal_0000",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "out": "objs/amcQw_d.o",
+                "bytes": 8193,
+                "mod": "...MASTER...",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "xmodel_prims": {
+            "nRDma_d": {
+                "out": "nRDma_d.o",
+                "bytes": 69330,
+                "mod": "xmodel_prims",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "_vcs_unit__3899434638": {
+            "QrxRB_d": {
+                "out": "QrxRB_d.o",
+                "bytes": 101346,
+                "mod": "_vcs_unit__3899434638",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "tb_tgfa_fsm": {
+            "hcPsc_d": {
+                "out": "hcPsc_d.o",
+                "bytes": 459592,
+                "mod": "tb_tgfa_fsm",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "math_pkg": {
+            "aG6Rf_d": {
+                "out": "aG6Rf_d.o",
+                "bytes": 10418,
+                "mod": "math_pkg",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "inv_RC": {
+            "eGsM9_d": {
+                "out": "eGsM9_d.o",
+                "bytes": 23243,
+                "mod": "inv_RC",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "xreal_to_xbit_var_0000": {
+            "tWQzP_d": {
+                "out": "tWQzP_d.o",
+                "bytes": 41936,
+                "mod": "xreal_to_xbit_var_0000",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "xmodel_pkg": {
+            "xpQjW_d": {
+                "out": "xpQjW_d.o",
+                "bytes": 27091,
+                "mod": "xmodel_pkg",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "tg_double_RC": {
+            "Ehdg3_d": {
+                "out": "Ehdg3_d.o",
+                "bytes": 35645,
+                "mod": "tg_double_RC",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "transition_0000": {
+            "mzetE_d": {
+                "out": "mzetE_d.o",
+                "bytes": 14030,
+                "mod": "transition_0000",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        },
+        "tgfa_RC": {
+            "LrnMb_d": {
+                "out": "LrnMb_d.o",
+                "bytes": 19859,
+                "mod": "tgfa_RC",
+                "archive": "archive.2/_19223_archive_1.a",
+                "checksum": 0,
+                "mode": 4
+            }
+        }
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "_vcs_unit__3899434638",
+        "_vcs_unit__3899434638",
+        "std",
+        "xmodel_pkg",
+        "xmodel_pkg",
+        "xmodel_prims",
+        "xmodel_prims",
+        "math_pkg",
+        "math_pkg",
+        "XMODEL_global",
+        "transition_0000",
+        "transition_0000",
+        "bit_to_xreal",
+        "bit_to_xreal",
+        "xbit_to_xreal_0000",
+        "xbit_to_xreal_0000",
+        "xreal_to_xbit_var_0000",
+        "xreal_to_xbit_var_0000",
+        "tb_tgfa_fsm",
+        "tb_tgfa_fsm",
+        "inv_RC",
+        "inv_RC",
+        "ff1",
+        "ff1",
+        "tg_double_RC",
+        "tg_double_RC",
+        "tgfa_RC",
+        "tgfa_RC"
+    ],
+    "NameTable": {
+        "tb_tgfa_fsm": [
+            "tb_tgfa_fsm",
+            "hcPsc",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "xmodel_prims": [
+            "xmodel_prims",
+            "nRDma",
+            "module"
+        ],
+        "_vcs_unit__3899434638": [
+            "_vcs_unit__3899434638",
+            "QrxRB",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "bit_to_xreal": [
+            "bit_to_xreal",
+            "VSICe",
+            "module"
+        ],
+        "XMODEL_global": [
+            "XMODEL_global",
+            "w8VQw",
+            "module"
+        ],
+        "xmodel_pkg": [
+            "xmodel_pkg",
+            "xpQjW",
+            "module"
+        ],
+        "xreal_to_xbit_var_0000": [
+            "xreal_to_xbit_var_0000",
+            "tWQzP",
+            "module"
+        ],
+        "inv_RC": [
+            "inv_RC",
+            "eGsM9",
+            "module"
+        ],
+        "math_pkg": [
+            "math_pkg",
+            "aG6Rf",
+            "module"
+        ],
+        "transition_0000": [
+            "transition_0000",
+            "mzetE",
+            "module"
+        ],
+        "xbit_to_xreal_0000": [
+            "xbit_to_xreal_0000",
+            "IGTFP",
+            "module"
+        ],
+        "ff1": [
+            "ff1",
+            "GxgN6",
+            "module"
+        ],
+        "tg_double_RC": [
+            "tg_double_RC",
+            "Ehdg3",
+            "module"
+        ],
+        "tgfa_RC": [
+            "tgfa_RC",
+            "LrnMb",
+            "module"
+        ]
+    },
+    "SIMBData": {
+        "bytes": 69632,
+        "out": "amcQwB.o"
+    },
+    "stat": {
+        "mop/quad": 2.8660489529216431,
+        "quadSpeed": 72933.59375,
+        "ru_self_cgstart": {
+            "ru_minflt": 8853,
+            "ru_utime_sec": 0.624,
+            "ru_stime_sec": 0.02,
+            "ru_maxrss_kb": 97416,
+            "ru_majflt": 0,
+            "ru_nvcsw": 44,
+            "ru_nivcsw": 6
+        },
+        "totalObjSize": 891101,
+        "ru_childs_cgstart": {
+            "ru_minflt": 0,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0,
+            "ru_nivcsw": 0
+        },
+        "nMops": 53512,
+        "nQuads": 18671,
+        "Frontend(%)": 70.909090909090907,
+        "ru_self_end": {
+            "ru_minflt": 12372,
+            "ru_utime_sec": 0.88,
+            "ru_stime_sec": 0.040000000000000001,
+            "ru_maxrss_kb": 104164,
+            "ru_majflt": 0,
+            "ru_nvcsw": 45,
+            "ru_nivcsw": 10
+        },
+        "ru_childs_end": {
+            "ru_minflt": 201,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 27184,
+            "ru_majflt": 0,
+            "ru_nvcsw": 1,
+            "ru_nivcsw": 2
+        },
+        "outputSizePerQuad": 47.0,
+        "mopSpeed": 209031.25,
+        "CodeGen(%)": 29.090909090909093
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "LVLData": [
+        "SIM"
+    ],
+    "CompileStatus": "Successful",
+    "PEModules": [],
+    "Misc": {
+        "daidir_abs": "/home/group05/sequence/automatic/simv.daidir",
+        "csrc": "csrc",
+        "cwd": "/home/group05/sequence/automatic",
+        "csrc_abs": "/home/group05/sequence/automatic/csrc",
+        "daidir": "/home/group05/sequence/automatic/./simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.2"
+    }
+}

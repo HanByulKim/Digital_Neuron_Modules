@@ -1,0 +1,243 @@
+{
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "XMODEL_global": {
+            "w8VQw_d": {
+                "mode": 4,
+                "bytes": 17887,
+                "mod": "XMODEL_global",
+                "out": "w8VQw_d.o",
+                "checksum": 0,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "_vcs_unit__3623815327": {
+            "E8N7n_d": {
+                "mode": 4,
+                "bytes": 100122,
+                "mod": "_vcs_unit__3623815327",
+                "out": "E8N7n_d.o",
+                "checksum": 0,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "mode": 4,
+                "bytes": 33296,
+                "mod": "std",
+                "out": "reYIK_d.o",
+                "checksum": 0,
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        },
+        "step_gen": {
+            "KNkE9_d": {
+                "mode": 4,
+                "bytes": 21567,
+                "mod": "step_gen",
+                "checksum": 0,
+                "out": "KNkE9_d.o",
+                "archive": "archive.7/_12046_archive_1.a"
+            }
+        },
+        "math_pkg": {
+            "aG6Rf_d": {
+                "mode": 4,
+                "bytes": 9980,
+                "mod": "math_pkg",
+                "checksum": 0,
+                "out": "aG6Rf_d.o",
+                "archive": "archive.7/_12046_archive_1.a"
+            }
+        },
+        "xmodel_pkg": {
+            "xpQjW_d": {
+                "mode": 4,
+                "bytes": 25087,
+                "mod": "xmodel_pkg",
+                "checksum": 0,
+                "out": "xpQjW_d.o",
+                "archive": "archive.7/_12046_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "mode": 4,
+                "bytes": 8193,
+                "mod": "...MASTER...",
+                "out": "objs/amcQw_d.o",
+                "checksum": 0
+            }
+        },
+        "xmodel_prims": {
+            "nRDma_d": {
+                "mode": 4,
+                "bytes": 73336,
+                "mod": "xmodel_prims",
+                "checksum": 0,
+                "out": "nRDma_d.o",
+                "archive": "archive.7/_12046_archive_1.a"
+            }
+        },
+        "tb_mux2to1": {
+            "TNc0B_d": {
+                "mode": 4,
+                "bytes": 70948,
+                "mod": "tb_mux2to1",
+                "checksum": 0,
+                "out": "TNc0B_d.o",
+                "archive": "archive.7/_12046_archive_1.a"
+            }
+        },
+        "trig_posedge": {
+            "NmFdU_d": {
+                "mode": 4,
+                "bytes": 16840,
+                "mod": "trig_posedge",
+                "checksum": 0,
+                "out": "NmFdU_d.o",
+                "archive": "archive.7/_prev_archive_1.a"
+            }
+        }
+    },
+    "NameTable": {
+        "_vcs_unit__3623815327": [
+            "_vcs_unit__3623815327",
+            "E8N7n",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "xmodel_pkg": [
+            "xmodel_pkg",
+            "xpQjW",
+            "module"
+        ],
+        "xmodel_prims": [
+            "xmodel_prims",
+            "nRDma",
+            "module"
+        ],
+        "math_pkg": [
+            "math_pkg",
+            "aG6Rf",
+            "module"
+        ],
+        "step_gen": [
+            "step_gen",
+            "KNkE9",
+            "module"
+        ],
+        "trig_posedge": [
+            "trig_posedge",
+            "NmFdU",
+            "module"
+        ],
+        "XMODEL_global": [
+            "XMODEL_global",
+            "w8VQw",
+            "module"
+        ],
+        "tb_mux2to1": [
+            "tb_mux2to1",
+            "TNc0B",
+            "module"
+        ]
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 66430
+    },
+    "CompileStrategy": "fullobj",
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.35999999999999999,
+            "ru_stime_sec": 0.016,
+            "ru_maxrss_kb": 98612,
+            "ru_minflt": 7071,
+            "ru_majflt": 0,
+            "ru_nvcsw": 44,
+            "ru_nivcsw": 2
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0,
+            "ru_nivcsw": 0
+        },
+        "nQuads": 3494,
+        "nMops": 8411,
+        "totalObjSize": 267348,
+        "ru_self_end": {
+            "ru_utime_sec": 0.41999999999999998,
+            "ru_stime_sec": 0.016,
+            "ru_maxrss_kb": 103880,
+            "ru_minflt": 9737,
+            "ru_majflt": 0,
+            "ru_nvcsw": 45,
+            "ru_nivcsw": 3
+        },
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 27432,
+            "ru_minflt": 203,
+            "ru_majflt": 0,
+            "ru_nvcsw": 1,
+            "ru_nivcsw": 2
+        },
+        "CodeGen(%)": 14.285714285714286,
+        "mopSpeed": 140183.33333333334,
+        "quadSpeed": 58233.333333333336,
+        "mop/quad": 2.4072696050372064,
+        "outputSizePerQuad": 76.0,
+        "Frontend(%)": 85.714285714285722
+    },
+    "CurCompileUdps": {},
+    "CompileProcesses": [
+        "cgproc.12046.json"
+    ],
+    "CurCompileModules": [
+        "...MASTER...",
+        "_vcs_unit__3623815327",
+        "std",
+        "xmodel_pkg",
+        "xmodel_pkg",
+        "xmodel_prims",
+        "xmodel_prims",
+        "math_pkg",
+        "math_pkg",
+        "XMODEL_global",
+        "step_gen",
+        "step_gen",
+        "trig_posedge",
+        "tb_mux2to1",
+        "tb_mux2to1"
+    ],
+    "Misc": {
+        "cwd": "/home/group05/YG/mux_test",
+        "csrc": "csrc",
+        "csrc_abs": "/home/group05/YG/mux_test/csrc",
+        "daidir": "/home/group05/YG/mux_test/./simv.daidir",
+        "archive_dir": "archive.7",
+        "daidir_abs": "/home/group05/YG/mux_test/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileStatus": "Successful"
+}

@@ -1,0 +1,319 @@
+{
+    "CompUnits": {
+        "mzetE_d": {
+            "mod": "transition_0000",
+            "checksum": 0,
+            "mode": 4,
+            "out": "mzetE_d.o",
+            "bytes": 14030,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "tWQzP_d": {
+            "mod": "xreal_to_xbit_var_0000",
+            "checksum": 0,
+            "mode": 4,
+            "out": "tWQzP_d.o",
+            "bytes": 41938,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "aG6Rf_d": {
+            "mod": "math_pkg",
+            "checksum": 0,
+            "mode": 4,
+            "out": "aG6Rf_d.o",
+            "bytes": 10418,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "nRDma_d": {
+            "mod": "xmodel_prims",
+            "checksum": 0,
+            "mode": 4,
+            "out": "nRDma_d.o",
+            "bytes": 84778,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "checksum": 0,
+            "mode": 4,
+            "out": "objs/amcQw_d.o",
+            "bytes": 8193
+        },
+        "ewCH3_d": {
+            "mod": "_vcs_unit__3917428465",
+            "checksum": 0,
+            "mode": 4,
+            "out": "ewCH3_d.o",
+            "bytes": 101586,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "w8VQw_d": {
+            "mod": "XMODEL_global",
+            "checksum": 0,
+            "mode": 4,
+            "out": "w8VQw_d.o",
+            "bytes": 17887,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "Ehdg3_d": {
+            "mod": "tg_double_RC",
+            "checksum": 0,
+            "mode": 4,
+            "out": "Ehdg3_d.o",
+            "bytes": 35645,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "LrnMb_d": {
+            "mod": "tgfa_RC",
+            "checksum": 0,
+            "mode": 4,
+            "out": "LrnMb_d.o",
+            "bytes": 21355,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "xpQjW_d": {
+            "mod": "xmodel_pkg",
+            "checksum": 0,
+            "mode": 4,
+            "out": "xpQjW_d.o",
+            "bytes": 28898,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "p2t6g_d": {
+            "mod": "tgfa_8bit",
+            "checksum": 0,
+            "mode": 4,
+            "out": "p2t6g_d.o",
+            "bytes": 32679,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "PpQx1_d": {
+            "mod": "slice",
+            "checksum": 0,
+            "mode": 4,
+            "out": "PpQx1_d.o",
+            "bytes": 14656,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "mzR8J_d": {
+            "mod": "trig_cross",
+            "checksum": 0,
+            "mode": 4,
+            "out": "mzR8J_d.o",
+            "bytes": 25289,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "uTRJL_d": {
+            "mod": "trig_time",
+            "checksum": 0,
+            "mode": 4,
+            "out": "uTRJL_d.o",
+            "bytes": 29183,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "VSICe_d": {
+            "mod": "bit_to_xreal",
+            "checksum": 0,
+            "mode": 4,
+            "out": "VSICe_d.o",
+            "bytes": 219338,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "LyMud_d": {
+            "mod": "bit_to_xreal_0000",
+            "checksum": 0,
+            "mode": 4,
+            "out": "LyMud_d.o",
+            "bytes": 45554,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "IGTFP_d": {
+            "mod": "xbit_to_xreal_0000",
+            "checksum": 0,
+            "mode": 4,
+            "out": "IGTFP_d.o",
+            "bytes": 13114,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "gR8kH_d": {
+            "mod": "tb_totaltgfa",
+            "checksum": 0,
+            "mode": 4,
+            "out": "gR8kH_d.o",
+            "bytes": 281133,
+            "archive": "archive.15/_3497_archive_1.a"
+        },
+        "eGsM9_d": {
+            "mod": "inv_RC",
+            "checksum": 0,
+            "mode": 4,
+            "out": "eGsM9_d.o",
+            "bytes": 23243,
+            "archive": "archive.15/_3497_archive_1.a"
+        }
+    },
+    "Modules": {
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 16
+        },
+        "_vcs_unit__3917428465": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "...MASTER...": {},
+        "trig_time": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "slice": {
+            "Compiled": "Yes",
+            "Compiled Times": 7
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 16
+        },
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 16
+        },
+        "bit_to_xreal_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "xreal_to_xbit_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 16
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 16
+        },
+        "transition_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "trig_cross": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "tg_double_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "bit_to_xreal": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "inv_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "xbit_to_xreal_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "tb_totaltgfa": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "tgfa_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 15
+        },
+        "tgfa_8bit": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "reusePaths": {
+        "reYIK_d": {
+            "icPath": "csrc"
+        }
+    },
+    "ObjArchives": [
+        {
+            "size": 1040724,
+            "archive": "archive.15/_3497_archive_1.a",
+            "objects": [
+                [
+                    "ewCH3_d.o",
+                    101586
+                ],
+                [
+                    "xpQjW_d.o",
+                    28898
+                ],
+                [
+                    "nRDma_d.o",
+                    84778
+                ],
+                [
+                    "aG6Rf_d.o",
+                    10418
+                ],
+                [
+                    "w8VQw_d.o",
+                    17887
+                ],
+                [
+                    "PpQx1_d.o",
+                    14656
+                ],
+                [
+                    "mzetE_d.o",
+                    14030
+                ],
+                [
+                    "mzR8J_d.o",
+                    25289
+                ],
+                [
+                    "uTRJL_d.o",
+                    29183
+                ],
+                [
+                    "VSICe_d.o",
+                    219338
+                ],
+                [
+                    "LyMud_d.o",
+                    45554
+                ],
+                [
+                    "IGTFP_d.o",
+                    13114
+                ],
+                [
+                    "tWQzP_d.o",
+                    41938
+                ],
+                [
+                    "gR8kH_d.o",
+                    281133
+                ],
+                [
+                    "LrnMb_d.o",
+                    21355
+                ],
+                [
+                    "eGsM9_d.o",
+                    23243
+                ],
+                [
+                    "Ehdg3_d.o",
+                    35645
+                ],
+                [
+                    "p2t6g_d.o",
+                    32679
+                ]
+            ]
+        }
+    ]
+}

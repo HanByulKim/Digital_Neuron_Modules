@@ -1,0 +1,229 @@
+{
+    "stat": {
+        "mop/quad": 2.8004675237936216,
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.38800000000000001,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 99356,
+            "ru_minflt": 6717,
+            "ru_nivcsw": 4,
+            "ru_nvcsw": 44
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_nivcsw": 0,
+            "ru_nvcsw": 0
+        },
+        "mopSpeed": 135258.06451612903,
+        "nQuads": 5989,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 29580,
+            "ru_minflt": 205,
+            "ru_nivcsw": 2,
+            "ru_nvcsw": 1
+        },
+        "quadSpeed": 48298.387096774197,
+        "nMops": 16772,
+        "totalObjSize": 585306,
+        "ru_self_end": {
+            "ru_utime_sec": 0.51200000000000001,
+            "ru_majflt": 1,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 107684,
+            "ru_minflt": 9770,
+            "ru_nivcsw": 4,
+            "ru_nvcsw": 46
+        },
+        "outputSizePerQuad": 97.0,
+        "Frontend(%)": 75.78125,
+        "CodeGen(%)": 24.21875
+    },
+    "CompileStatus": "Successful",
+    "MlibObjs": {},
+    "NameTable": {
+        "_vcs_unit__3375250637": [
+            "_vcs_unit__3375250637",
+            "u4R3I",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "xmodel_pkg": [
+            "xmodel_pkg",
+            "xpQjW",
+            "module"
+        ],
+        "XMODEL_global": [
+            "XMODEL_global",
+            "w8VQw",
+            "module"
+        ],
+        "xmodel_prims": [
+            "xmodel_prims",
+            "nRDma",
+            "module"
+        ],
+        "math_pkg": [
+            "math_pkg",
+            "aG6Rf",
+            "module"
+        ],
+        "inv_RC": [
+            "inv_RC",
+            "eGsM9",
+            "module"
+        ],
+        "transition_0000": [
+            "transition_0000",
+            "mzetE",
+            "module"
+        ],
+        "clk_gen": [
+            "clk_gen",
+            "MEIvW",
+            "module"
+        ],
+        "xreal_to_xbit_var_0000": [
+            "xreal_to_xbit_var_0000",
+            "tWQzP",
+            "module"
+        ],
+        "ff_switch_RC": [
+            "ff_switch_RC",
+            "e7EbW",
+            "module"
+        ],
+        "tb_test": [
+            "tb_test",
+            "hrPmw",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "PrevCompiledModules": {
+        "xmodel_pkg": {
+            "xpQjW_d": {
+                "out": "xpQjW_d.o",
+                "bytes": 20635,
+                "mod": "xmodel_pkg",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.10/_17439_archive_1.a"
+            }
+        },
+        "XMODEL_global": {
+            "w8VQw_d": {
+                "out": "w8VQw_d.o",
+                "bytes": 17797,
+                "mod": "XMODEL_global",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.10/_17439_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "out": "reYIK_d.o",
+                "bytes": 33296,
+                "mod": "std",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.10/_17439_archive_1.a"
+            }
+        },
+        "xmodel_prims": {
+            "nRDma_d": {
+                "out": "nRDma_d.o",
+                "bytes": 65477,
+                "mod": "xmodel_prims",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.10/_17439_archive_1.a"
+            }
+        },
+        "math_pkg": {
+            "aG6Rf_d": {
+                "out": "aG6Rf_d.o",
+                "bytes": 9313,
+                "mod": "math_pkg",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.10/_17439_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "out": "objs/amcQw_d.o",
+                "bytes": 8019,
+                "mod": "...MASTER...",
+                "mode": 4,
+                "checksum": 0
+            }
+        }
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "CompileStrategy": "fullobj",
+    "CompileProcesses": [
+        "cgproc.17439.json"
+    ],
+    "CurCompileUdps": {},
+    "SIMBData": {
+        "bytes": 72179,
+        "out": "amcQwB.o"
+    },
+    "Misc": {
+        "archive_dir": "archive.10",
+        "cwd": "/home/group05/jhpark",
+        "csrc_abs": "/home/group05/jhpark/csrc",
+        "csrc": "csrc",
+        "daidir": "/home/group05/jhpark/./simv.daidir",
+        "daidir_abs": "/home/group05/jhpark/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "_vcs_unit__3375250637",
+        "_vcs_unit__3375250637",
+        "std",
+        "std",
+        "xmodel_pkg",
+        "xmodel_pkg",
+        "xmodel_prims",
+        "xmodel_prims",
+        "math_pkg",
+        "math_pkg",
+        "XMODEL_global",
+        "XMODEL_global",
+        "transition_0000",
+        "transition_0000",
+        "clk_gen",
+        "clk_gen",
+        "xreal_to_xbit_var_0000",
+        "xreal_to_xbit_var_0000",
+        "ff_switch_RC",
+        "ff_switch_RC",
+        "inv_RC",
+        "inv_RC",
+        "tb_test",
+        "tb_test"
+    ],
+    "PEModules": []
+}

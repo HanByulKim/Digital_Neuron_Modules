@@ -1,0 +1,34 @@
+Tutorials on XMODEL Basics
+============================================================
+
+This tutorial covers the basics of using XMODEL to model and simulate analog/mixed-signal systems. Particularly, one can learn how to compose model sources, run simulations, and plot waveforms from UNIX command-line interface using the commands like 'xmodel' and 'xwave'. The final two chapters cover an example of modeling a digital phase-locked loop, which is composed of both analog and digital components. 
+
+Note: if you are more interested in using XMODEL within Cadence Virtuoso, please refer to the GLISTER tutorial, located in ${XMODEL_HOME}/tutorial/glister_basic.
+
+- Lecture #01: XMODEL introduction
+- Lecture #02: XMODEL setup guide
+- Lecture #03: Getting started with XMODEL
+- Lecture #04: Digital hardware modeling with SystemVerilog
+- Lecture #05: Learning XMODEL primitives 
+- Lecture #06: Modeling digital PLL components in XMODEL
+- Lecture #07: Simulating Digital PLL with XMODEL
+
+HOW TO GET STARTED:
+---------------------
+
+1. Install the latest XMODEL package as explained in the XMODEL Installation Guide.
+
+2. Properly setup your Unix shell environments as explained in the XMODEL Installation Guide or XMODEL Setup Summary documents.
+
+3. Copy the tutorial files to your local directories, for instance:
+
+    cp -R ${XMODEL_HOME}/tutorial/xmodel_basic ~/xmodel_basic
+
+4. Try running the first XMODEL simulation: 
+
+    cd ~/xmodel_basic
+    cd sim/tb_stim
+    make
+
+5. And follow the tutorial materials in the ~/xmodel_basic/doc directory. Enjoy!
+

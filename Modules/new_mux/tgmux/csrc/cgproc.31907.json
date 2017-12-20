@@ -1,0 +1,167 @@
+{
+    "Modules": {
+        "xreal_to_xbit_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "...MASTER...": {},
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 5
+        },
+        "_vcs_unit__3376940397": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 5
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 5
+        },
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 5
+        },
+        "bit_to_xreal": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 5
+        },
+        "trig_cross": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "trig_time": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "tb_tgmux16_delay": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "tgmux2": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        }
+    },
+    "CompUnits": {
+        "m146c_d": {
+            "checksum": 0,
+            "bytes": 100938,
+            "mod": "_vcs_unit__3376940397",
+            "mode": 4,
+            "out": "m146c_d.o",
+            "archive": "archive.4/_31907_archive_1.a"
+        },
+        "xpQjW_d": {
+            "checksum": 0,
+            "bytes": 28898,
+            "mod": "xmodel_pkg",
+            "mode": 4,
+            "out": "xpQjW_d.o",
+            "archive": "archive.4/_31907_archive_1.a"
+        },
+        "nRDma_d": {
+            "checksum": 0,
+            "bytes": 84778,
+            "mod": "xmodel_prims",
+            "mode": 4,
+            "out": "nRDma_d.o",
+            "archive": "archive.4/_31907_archive_1.a"
+        },
+        "aG6Rf_d": {
+            "checksum": 0,
+            "bytes": 10418,
+            "mod": "math_pkg",
+            "mode": 4,
+            "out": "aG6Rf_d.o",
+            "archive": "archive.4/_31907_archive_1.a"
+        },
+        "VSICe_d": {
+            "checksum": 0,
+            "bytes": 45533,
+            "mod": "bit_to_xreal",
+            "mode": 4,
+            "out": "VSICe_d.o",
+            "archive": "archive.4/_31907_archive_1.a"
+        },
+        "tWQzP_d": {
+            "checksum": 0,
+            "bytes": 41938,
+            "mod": "xreal_to_xbit_var_0000",
+            "mode": 4,
+            "out": "tWQzP_d.o",
+            "archive": "archive.4/_31907_archive_1.a"
+        },
+        "vkyav_d": {
+            "checksum": 0,
+            "bytes": 184581,
+            "mod": "tb_tgmux16_delay",
+            "mode": 4,
+            "out": "vkyav_d.o",
+            "archive": "archive.4/_31907_archive_1.a"
+        }
+    },
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        },
+        "w8VQw_d": {
+            "icPath": "csrc"
+        },
+        "reYIK_d": {
+            "icPath": "csrc"
+        },
+        "mzR8J_d": {
+            "icPath": "csrc"
+        },
+        "uTRJL_d": {
+            "icPath": "csrc"
+        },
+        "rKT9u_d": {
+            "icPath": "csrc"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.4/_31907_archive_1.a",
+            "size": 497084,
+            "objects": [
+                [
+                    "m146c_d.o",
+                    100938
+                ],
+                [
+                    "xpQjW_d.o",
+                    28898
+                ],
+                [
+                    "nRDma_d.o",
+                    84778
+                ],
+                [
+                    "aG6Rf_d.o",
+                    10418
+                ],
+                [
+                    "VSICe_d.o",
+                    45533
+                ],
+                [
+                    "tWQzP_d.o",
+                    41938
+                ],
+                [
+                    "vkyav_d.o",
+                    184581
+                ]
+            ]
+        }
+    ]
+}

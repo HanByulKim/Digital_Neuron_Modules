@@ -1,0 +1,97 @@
+{
+    "_vcs_unit__1817549624": [
+        "_vcs_unit__1817549624",
+        "kgj22",
+        "module"
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module"
+    ],
+    "tg_double_RC": [
+        "tg_double_RC",
+        "Ehdg3",
+        "module"
+    ],
+    "XMODEL_global": [
+        "XMODEL_global",
+        "w8VQw",
+        "module"
+    ],
+    "xmodel_prims": [
+        "xmodel_prims",
+        "nRDma",
+        "module"
+    ],
+    "xbit_to_xreal_0000": [
+        "xbit_to_xreal_0000",
+        "IGTFP",
+        "module"
+    ],
+    "xreal_to_bit": [
+        "xreal_to_bit",
+        "MA5T3",
+        "module"
+    ],
+    "transition_0000": [
+        "transition_0000",
+        "mzetE",
+        "module"
+    ],
+    "xmodel_pkg": [
+        "xmodel_pkg",
+        "xpQjW",
+        "module"
+    ],
+    "math_pkg": [
+        "math_pkg",
+        "aG6Rf",
+        "module"
+    ],
+    "slice": [
+        "slice",
+        "PpQx1",
+        "module"
+    ],
+    "clk_gen": [
+        "clk_gen",
+        "MEIvW",
+        "module"
+    ],
+    "trig_cross": [
+        "trig_cross",
+        "mzR8J",
+        "module"
+    ],
+    "trig_time": [
+        "trig_time",
+        "uTRJL",
+        "module"
+    ],
+    "xreal_to_xbit_var_0000": [
+        "xreal_to_xbit_var_0000",
+        "tWQzP",
+        "module"
+    ],
+    "tb_ff10_delay": [
+        "tb_ff10_delay",
+        "kmJMC",
+        "module"
+    ],
+    "inv_RC": [
+        "inv_RC",
+        "eGsM9",
+        "module"
+    ],
+    "ff1": [
+        "ff1",
+        "GxgN6",
+        "module"
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module"
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "_vcs_unit__3623815327": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "step_gen": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        },
+        "trig_posedge": {
+            "Compiled": "Yes",
+            "Compiled Times": 7
+        },
+        "tb_mux2to1": {
+            "Compiled": "Yes",
+            "Compiled Times": 8
+        }
+    },
+    "CompUnits": {
+        "nRDma_d": {
+            "mod": "xmodel_prims",
+            "checksum": 0,
+            "out": "nRDma_d.o",
+            "mode": 4,
+            "bytes": 73336,
+            "archive": "archive.7/_12046_archive_1.a"
+        },
+        "xpQjW_d": {
+            "mod": "xmodel_pkg",
+            "checksum": 0,
+            "out": "xpQjW_d.o",
+            "mode": 4,
+            "bytes": 25087,
+            "archive": "archive.7/_12046_archive_1.a"
+        },
+        "aG6Rf_d": {
+            "mod": "math_pkg",
+            "checksum": 0,
+            "out": "aG6Rf_d.o",
+            "mode": 4,
+            "bytes": 9980,
+            "archive": "archive.7/_12046_archive_1.a"
+        },
+        "KNkE9_d": {
+            "mod": "step_gen",
+            "checksum": 0,
+            "out": "KNkE9_d.o",
+            "mode": 4,
+            "bytes": 21567,
+            "archive": "archive.7/_12046_archive_1.a"
+        },
+        "TNc0B_d": {
+            "mod": "tb_mux2to1",
+            "checksum": 0,
+            "out": "TNc0B_d.o",
+            "mode": 4,
+            "bytes": 70948,
+            "archive": "archive.7/_12046_archive_1.a"
+        }
+    },
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        },
+        "NmFdU_d": {
+            "icPath": "csrc"
+        },
+        "reYIK_d": {
+            "icPath": "csrc"
+        },
+        "E8N7n_d": {
+            "icPath": "csrc"
+        },
+        "w8VQw_d": {
+            "icPath": "csrc"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.7/_12046_archive_1.a",
+            "objects": [
+                [
+                    "xpQjW_d.o",
+                    25087
+                ],
+                [
+                    "nRDma_d.o",
+                    73336
+                ],
+                [
+                    "aG6Rf_d.o",
+                    9980
+                ],
+                [
+                    "KNkE9_d.o",
+                    21567
+                ],
+                [
+                    "TNc0B_d.o",
+                    70948
+                ]
+            ],
+            "size": 200918
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+/*----------------------------------------------------------------------
+MODULE tb_jtran.sv.empy
+
+= Purpose =
+An empy testbench template to measure the jitter transfer function 
+of a phased-locked loop.
+
+= Revisions =
+$Author$
+$DateTIme$
+----------------------------------------------------------------------*/
+
+`include "xmodel.h"
+
+module tb_jtran();	
+	  
+    parameter real freq_ref = @ref_freq;    // input clock frequency 
+    parameter real SJ_amp = @sj_amp;        // input SJ amplitude in UI
+    parameter real SJ_freq = @sj_freq;      // input SJ frequency in Hz
+    parameter real t_lock = @t_lock;        // initial simulation time
+                                            // (PLL locking time) 
+
+    // variables
+    xbit clk_ref, clk_out, clk_fb;
+    bit reset;
+
+    // stimuli
+    clk_gen     #(.freq(freq_ref), .SJ_amp(SJ_amp), .SJ_freq(SJ_freq))
+                clk_gen(clk_ref);
+
+    initial begin
+        reset = 1;
+        #(80ns) reset = 0;
+    end
+
+    // DUT (device-under-test) digital PLL
+    dpll        dut(.clk_ref(clk_ref), .clk_out(clk_out),
+                    .clk_fb(clk_fb), .reset(reset));
+
+    // measurement
+    probe_phase #(.freq(freq_ref), .start(t_lock))
+                probe_phase(clk_fb);
+
+endmodule

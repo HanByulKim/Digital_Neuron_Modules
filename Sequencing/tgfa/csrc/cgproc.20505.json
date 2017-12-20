@@ -1,0 +1,247 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "tb_tgfa_8bit_delay": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "_vcs_unit__2116283917": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "trig_cross": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "xreal_to_xbit_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        },
+        "trig_time": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "tgfa_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "bit_to_xreal": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "inv_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "tg_double_RC": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 8201,
+            "mode": 4,
+            "checksum": 0
+        },
+        "reYIK_d": {
+            "mod": "std",
+            "out": "reYIK_d.o",
+            "bytes": 33205,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "nRDma_d": {
+            "mod": "xmodel_prims",
+            "out": "nRDma_d.o",
+            "bytes": 84778,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "r47Ra_d": {
+            "mod": "_vcs_unit__2116283917",
+            "out": "r47Ra_d.o",
+            "bytes": 100930,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "xpQjW_d": {
+            "mod": "xmodel_pkg",
+            "out": "xpQjW_d.o",
+            "bytes": 28898,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "eGsM9_d": {
+            "mod": "inv_RC",
+            "out": "eGsM9_d.o",
+            "bytes": 23243,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "aG6Rf_d": {
+            "mod": "math_pkg",
+            "out": "aG6Rf_d.o",
+            "bytes": 10418,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "w8VQw_d": {
+            "mod": "XMODEL_global",
+            "out": "w8VQw_d.o",
+            "bytes": 17887,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "Ehdg3_d": {
+            "mod": "tg_double_RC",
+            "out": "Ehdg3_d.o",
+            "bytes": 35645,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "tWQzP_d": {
+            "mod": "xreal_to_xbit_var_0000",
+            "out": "tWQzP_d.o",
+            "bytes": 41938,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "mzR8J_d": {
+            "mod": "trig_cross",
+            "out": "mzR8J_d.o",
+            "bytes": 25289,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "uTRJL_d": {
+            "mod": "trig_time",
+            "out": "uTRJL_d.o",
+            "bytes": 29234,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "LrnMb_d": {
+            "mod": "tgfa_RC",
+            "out": "LrnMb_d.o",
+            "bytes": 21355,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "VSICe_d": {
+            "mod": "bit_to_xreal",
+            "out": "VSICe_d.o",
+            "bytes": 45533,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        },
+        "ftp4K_d": {
+            "mod": "tb_tgfa_8bit_delay",
+            "out": "ftp4K_d.o",
+            "bytes": 187510,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.1/_20505_archive_1.a"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.1/_20505_archive_1.a",
+            "objects": [
+                [
+                    "r47Ra_d.o",
+                    100930
+                ],
+                [
+                    "reYIK_d.o",
+                    33205
+                ],
+                [
+                    "xpQjW_d.o",
+                    28898
+                ],
+                [
+                    "nRDma_d.o",
+                    84778
+                ],
+                [
+                    "aG6Rf_d.o",
+                    10418
+                ],
+                [
+                    "w8VQw_d.o",
+                    17887
+                ],
+                [
+                    "mzR8J_d.o",
+                    25289
+                ],
+                [
+                    "uTRJL_d.o",
+                    29234
+                ],
+                [
+                    "VSICe_d.o",
+                    45533
+                ],
+                [
+                    "tWQzP_d.o",
+                    41938
+                ],
+                [
+                    "ftp4K_d.o",
+                    187510
+                ],
+                [
+                    "eGsM9_d.o",
+                    23243
+                ],
+                [
+                    "Ehdg3_d.o",
+                    35645
+                ],
+                [
+                    "LrnMb_d.o",
+                    21355
+                ]
+            ],
+            "size": 685863
+        }
+    ],
+    "reusePaths": {}
+}

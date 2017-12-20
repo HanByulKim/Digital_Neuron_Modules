@@ -1,0 +1,225 @@
+\# Program start time UTC 2017.12.06 06:07:11.061
+\# Local time Wednesday 6 December 2017, 3:07 pm
+\o Program:		@(#)$CDS: virtuoso version 6.1.5-64b 06/11/2013 20:05 (sjfnl006) $
+\o Hierarchy:		/cad/cadence/installs/IC06.15.011/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.5-64b.500.17  (64-bit addresses)
+\# Host name (type):	rockfish (x86_64)
+\# Operating system:	Linux 4.4.0-101-generic #124-Ubuntu SMP Fri Nov 10 18:29:59 UTC 2017
+\# X display name (WxH):	localhost:10.0 (1920x1040)
+\# Available geometry:			TL(0:0) BR(1919:1039)
+\# X server:			NetSarang Computer, Inc.
+\# Depth of Visual (Root):	24 (24)
+\# Number of Planes Used:	24
+\# X version:		11.0 (vendor release 4024)
+\# X resource pool:	base 0x200000, mask 0x1fffff (2097151), shift 0
+\# 			current id 0x0, current max 0x1ffffa (2097146)
+\# Memory report:	maximum data size 18446744073709551615 (0xffffffffffffffff) bytes
+\# Memory report:	maximum process size 18446744073709551615 (0xffffffffffffffff) bytes
+\# Initial sbrk value:	290099200 (0x114a9000) bytes
+\# Available memory:	13430352 (0xccee50) kilobytes
+\# System memory:	16301768 (0xf8bec8) kilobytes
+\# Maximum memory size:	16460103680 (0x3d5194000) bytes
+\# Max mem available:	13809872896 (0x33721f000) bytes
+\# Initial memory used:	57192448 (0x368b000) bytes
+\#        process size:	711626752 (0x2a6a9000) bytes
+\# Qt version:		4.5.3
+\# Window Manager:	other
+\# User Name:		group05
+\o Working Directory:	rockfish:/home
+\# Process Id:		22174
+\o 
+\o COPYRIGHT © 1992-2013  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           © 1992-2013  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.
+\# Available memory:	13428108 (0xcce58c) kilobytes UTC 2017.12.06 06:07:11.735
+\# Memory report: Maximum memory size now 13810085888 (0x337253000) bytes, UTC 2017.12.06 06:07:11.735
+\o Loading geView.cxt 
+\o Loading menuBuilder.cxt 
+\o Loading schView.cxt 
+\o Loading selectSv.cxt 
+\o Loading LVS.cxt 
+\o Loading layerProc.cxt 
+\o Loading xlUI.cxt 
+\o Loading auCore.cxt 
+\o Loading dcm.cxt 
+\o Loading vhdl.cxt 
+\o Loading seismic.cxt 
+\o Loading ci.cxt 
+\o Loading ams.cxt 
+\o Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.08s.
+\w *WARNING* LIB basic from File /cad/dev/share/cadence/cds.lib Line 2 redefines
+\w LIB basic from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB analogLib from File /cad/dev/share/cadence/cds.lib Line 3 redefines
+\w LIB analogLib from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE analogLib
+\w before DEFINE analogLib
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE analogLib
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_prims from File /cad/dev/share/cadence/cds.lib Line 6 redefines
+\w LIB xmodel_prims from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE xmodel_prims
+\w before DEFINE xmodel_prims
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE xmodel_prims
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_blocks from File /cad/dev/share/cadence/cds.lib Line 7 redefines
+\w LIB xmodel_blocks from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE xmodel_blocks
+\w before DEFINE xmodel_blocks
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE xmodel_blocks
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB basic from File /home/group05/cds.lib Line 25 redefines
+\w LIB basic from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB analogLib from File /home/group05/cds.lib Line 26 redefines
+\w LIB analogLib from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE analogLib
+\w before DEFINE analogLib
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE analogLib
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_prims from File /home/group05/cds.lib Line 27 redefines
+\w LIB xmodel_prims from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE xmodel_prims
+\w before DEFINE xmodel_prims
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE xmodel_prims
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_blocks from File /home/group05/cds.lib Line 28 redefines
+\w LIB xmodel_blocks from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE xmodel_blocks
+\w before DEFINE xmodel_blocks
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE xmodel_blocks
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\o MICS Site-Wide Customizations ($CDS_SITE/.cdsinit)...
+\o Loading relXpert.cxt 
+\o //
+\o //  Calibre Skill Interface * (v2015.4_16.11) *
+\o //
+\o //                 Copyright Mentor Graphics Corporation 2005
+\o //                             All Rights Reserved.
+\o //         THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+\o //            WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION
+\o //              OR ITS LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+\o //
+\o //
+\o Can't open Calibre menu creation output file /cad/mentor/calibre_2015.4_16.11/ixl_cal_2015.4_16.11/tmp/virtInp.22174.customMenu for writing
+\o 
+\o     ==== SX-CDS LINK, L-2016.06 BUILD 0224 (02/24/2016)    ====
+\o     ==== COPYRIGHT 2001-2016   SYNOPSYS INC.       ====
+\o     ==== SX-CDS LINK sx_menu.il installed ====
+\o function sxSetupOutputPath redefined
+\o function sxBuildIProbe redefined
+\o function sxIProbe redefined
+\o Loading cdf.cxt 
+\o END OF MICS-CAD CUSTOMIZATION
+\o 
+\o The current directory is /home
+\i ddsWhatsNew()
+\p > 
+\a hiCloseWindow(window(2))
+\r t
+\a hiResizeWindow(window(1) list(598:-11 1323:420))
+\r t
+\a ddsOpenLibManager()
+\w *WARNING* LIB basic from File /cad/dev/share/cadence/cds.lib Line 2 redefines
+\w LIB basic from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB analogLib from File /cad/dev/share/cadence/cds.lib Line 3 redefines
+\w LIB analogLib from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE analogLib
+\w before DEFINE analogLib
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE analogLib
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_prims from File /cad/dev/share/cadence/cds.lib Line 6 redefines
+\w LIB xmodel_prims from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE xmodel_prims
+\w before DEFINE xmodel_prims
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE xmodel_prims
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_blocks from File /cad/dev/share/cadence/cds.lib Line 7 redefines
+\w LIB xmodel_blocks from File /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w Insert UNDEFINE xmodel_blocks
+\w before DEFINE xmodel_blocks
+\w     in /cad/dev/share/cadence/cds.lib
+\w Or remove or comment out DEFINE xmodel_blocks
+\w     in /cad/xmodel/xmodel_dev/cadence/etc/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB basic from File /home/group05/cds.lib Line 25 redefines
+\w LIB basic from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB analogLib from File /home/group05/cds.lib Line 26 redefines
+\w LIB analogLib from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE analogLib
+\w before DEFINE analogLib
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE analogLib
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_prims from File /home/group05/cds.lib Line 27 redefines
+\w LIB xmodel_prims from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE xmodel_prims
+\w before DEFINE xmodel_prims
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE xmodel_prims
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\w *WARNING* LIB xmodel_blocks from File /home/group05/cds.lib Line 28 redefines
+\w LIB xmodel_blocks from File /cad/dev/share/cadence/cds.lib
+\w Insert UNDEFINE xmodel_blocks
+\w before DEFINE xmodel_blocks
+\w     in /home/group05/cds.lib
+\w Or remove or comment out DEFINE xmodel_blocks
+\w     in /cad/dev/share/cadence/cds.lib
+\w to suppress this warning message.
+\r t
+\o Warning: Library manager unable to open logfile in "/home".
+\a hiQuit()
+\p > 
+\a hiDBoxOK(hiQuitDBox)
+\r t
+\o 
+\# Memory report: on exit 148205568 (0x8d57000) bytes, process size 837902336 (0x31f16000) bytes at UTC 2017.12.06 06:07:43.636
+\# Memory report: peak usage 148205568 (0x8d57000) bytes, process size 837902336 (0x31f16000) bytes
